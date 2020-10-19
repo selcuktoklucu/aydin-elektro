@@ -1,5 +1,6 @@
 {
-  "name": "foodiefliers-web",
+  "homepage": "http://selcuktoklucu.github.io/aydin-elektro",
+  "name": "aydin-elektro",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,11 +36,14 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.0.1",
+    "terser": "3.14",
     "typescript": "~3.7.2",
     "use-force-update": "^1.0.7",
     "use-react-router": "^1.0.7"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
