@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aydin-elektro/static/css/main.b64d91cb.chunk.css",
+    "main.js": "/aydin-elektro/static/js/main.aa6cd689.chunk.js",
+    "main.js.map": "/aydin-elektro/static/js/main.aa6cd689.chunk.js.map",
+    "runtime-main.js": "/aydin-elektro/static/js/runtime-main.68a85646.js",
+    "runtime-main.js.map": "/aydin-elektro/static/js/runtime-main.68a85646.js.map",
+    "static/css/2.274f2f50.chunk.css": "/aydin-elektro/static/css/2.274f2f50.chunk.css",
+    "static/js/2.59675e16.chunk.js": "/aydin-elektro/static/js/2.59675e16.chunk.js",
+    "static/js/2.59675e16.chunk.js.map": "/aydin-elektro/static/js/2.59675e16.chunk.js.map",
+    "index.html": "/aydin-elektro/index.html",
+    "precache-manifest.6214df82d615233e442e8e100d7227fd.js": "/aydin-elektro/precache-manifest.6214df82d615233e442e8e100d7227fd.js",
+    "service-worker.js": "/aydin-elektro/service-worker.js",
+    "static/css/2.274f2f50.chunk.css.map": "/aydin-elektro/static/css/2.274f2f50.chunk.css.map",
+    "static/css/main.b64d91cb.chunk.css.map": "/aydin-elektro/static/css/main.b64d91cb.chunk.css.map",
+    "static/js/2.59675e16.chunk.js.LICENSE.txt": "/aydin-elektro/static/js/2.59675e16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/aydin-elektro/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68a85646.js",
+    "static/css/2.274f2f50.chunk.css",
+    "static/js/2.59675e16.chunk.js",
+    "static/css/main.b64d91cb.chunk.css",
+    "static/js/main.aa6cd689.chunk.js"
+  ]
+}
